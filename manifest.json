@@ -1,11 +1,11 @@
 {
-    "name": "scouting2024",
-    "short_name": "scouting2024",
+    "name": "Scouting 2025",
+    "short_name": "Scouting 2025",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Offseason scouting test.",
+    "description": "Scouting test.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
